@@ -13,10 +13,12 @@ Philippines.
 The development of a promotional campaign for sustainable tourism in the Philippines using Angular is a vital step towards promoting sustainable tourism in the country. The app promises to be both aesthetically pleasing and user-friendly thanks to its creative design, Angular components, and animation features that will provide tourists with valuable resources and information to encourage responsible and sustainable travel practices in the Philippines.
 
 
-#Frameworks
+#Frameworks and Tools
 /* 
 Angular
-Animations
+Angular Animations
+Angular CLI
+Angular Material
 Router
 RXJS
 */
