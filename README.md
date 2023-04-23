@@ -1,7 +1,7 @@
 # Final-Project-Group-7
 FInals Project
 
-#Backgorund
+Backgorund
 #The development of a promotional campaign for sustainable tourism in the
 Philippines using Angular is a significant undertaking aimed at promoting sustainable
 tourism in the country. The campaign seeks to leverage the power of Angular, a popular
@@ -11,10 +11,14 @@ Philippines.
 
 
 #Frameworks
-#Check PDF
+/* 
+ng g component
+ng g service
+ng g animation
+*/
 
 
-#Components that was used
+Components that was used
 /* 
 app.component.ts
 app.module.ts
